@@ -13,7 +13,8 @@
         android:layout_height="729dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp">
+        tools:layout_editor_absoluteY="1dp"
+   >
 
         <TextView
             android:id="@+id/textView"
@@ -69,6 +70,15 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="212dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#DB1C1C"
+            android:text="@string/btn_txt"
+            android:textColorLink="#CE1919" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
