@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyApp2809</string>
+    <string name="app_subname">loginAppAS</string>
+    <string name="header_1">Rejestruj konto</string>
+    <string name="label_1">Podaj e-mail:</string>
+    <string name="label_2">Podaj hasło:</string>
+    <string name="label_3">Powtórz hasło:</string>
+    <string name="btn_txt">ZATWIERDŹ</string>
+
 </resources>
